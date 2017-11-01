@@ -1,0 +1,6 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/sandeepsmane/submodule.git
+[submodule "library-sdk"]
+	path = library-sdk
+	url = https://github.com/sandeepsmane/submodule.git
